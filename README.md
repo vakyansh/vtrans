@@ -23,7 +23,6 @@ Most translation systems today:
 - Colloquial translations that are more relatable and easier to understand.  
 - Code-mixed versions that reflect real-world usage, particularly in bilingual or multilingual communities.  
 
-This dataset is specifically curated for research in Natural Language Processing (NLP), focusing on the nuances of formal and informal language usage in Hindi-English code-mixed contexts.  
 ---
 
 ## 📁 Dataset Structure  
