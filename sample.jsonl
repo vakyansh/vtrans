@@ -1,0 +1,36 @@
+{
+  "input": "YET NONE OF THE EXPERTS FROM THE NATIONAL TECHNICAL RESEARCH ORGANISATION NTROIN CHARGE OF TECHNICAL INTELLIGENCEAND DEFENCE RESEARCH DEVELOPMENT ORGANISATION DRDO HAS BEEN ABLE TO IDENTIFY THE OBJECTS",
+  "formal": {
+    "hindi": "फिर भी राष्ट्रीय तकनीकी अनुसंधान संगठन (एनटीआरओ), जो तकनीकी खुफिया जानकारी के प्रभारी है, और रक्षा अनुसंधान एवं विकास संगठन (डीआरडीओ) के विशेषज्ञों में से कोई भी वस्तुओं की पहचान करने में सक्षम नहीं हो पाया है।",
+    "translit": "Phir bhi National Technical Research Organisation (NTRO), jo takaniki khufiya jaankaari ke prabhaari hai, aur Defence Research Development Organisation (DRDO) ke visheshagyon mein se koi bhi vastuon ki pahchaan karne mein saksham nahin ho paaya hai.",
+    "code_mixed": "फिर भी National Technical Research Organisation (NTRO), जो technical intelligence के प्रभारी है, और Defence Research Development Organisation (DRDO) के experts में से कोई भी objects की पहचान करने में सक्षम नहीं हो पाया है।"
+  },
+  "colloquial": {
+    "hindi": "फिर भी नेशनल टेक्निकल रिसर्च ऑर्गनाइजेशन (एनटीआरओ) और डीआरडीओ के एक्सपर्ट्स में से कोई भी उन चीजों को पहचान नहीं पाया है।",
+    "translit": "Phir bhi National Technical Research Organisation (NTRO) aur DRDO ke experts mein se koi bhi un cheejon ko pahchaan nahin paaya hai.",
+    "code_mixed": "फिर भी National Technical Research Organisation (NTRO) और DRDO के experts में से कोई भी उन objects को पहचान नहीं पाया है।"
+  },
+  "metadata": {
+    "domain": "security",
+    "sentiment": "negative"
+  },
+  "gender_specific": null
+}
+{
+  "input": "WIKIPEDIA BLACKED OUT SEVERAL EUROPEAN SITES IN PROTEST LAST MONTH WHILE THE CHANGE WAS OPPOSED BY FINLAND ITALY LUXEMBOURG THE NETHERLANDS POLAND AND SWEDEN",
+  "formal": {
+    "hindi": "विकिपीडिया ने पिछले महीने विरोध में कई यूरोपीय साइटों को ब्लैक आउट कर दिया, जबकि फिनलैंड, इटली, लक्ज़मबर्ग, नीदरलैंड, पोलैंड और स्वीडन ने इस परिवर्तन का विरोध किया।",
+    "translit": "Wikipedia ne pichhale maheene virodh mein kai European sites ko black out kar diya, jabaki Finland, Italy, Luxembourg, The Netherlands, Poland aur Sweden ne is parivartan ka virodh kiya.",
+    "code_mixed": "Wikipedia ने पिछले महीने विरोध में कई European sites को Black out कर दिया, जबकि Finland, Italy, Luxembourg, The Netherlands, Poland और Sweden ने इस परिवर्तन का विरोध किया।"
+  },
+  "colloquial": {
+    "hindi": "विकिपीडिया ने पिछले महीने प्रोटेस्ट में कई यूरोपियन साइट्स बंद कर दीं। फिनलैंड, इटली, लक्जमबर्ग, नीदरलैंड, पोलैंड और स्वीडन ने इसका विरोध किया।",
+    "translit": "Wikipedia ne pichhale maheene protest mein kai European sites band kar deen. Finland, Italy, Luxembourg, Netherlands, Poland aur Sweden ne iska virodh kiya.",
+    "code_mixed": "Wikipedia ने पिछले महीने protest में कई European sites बंद कर दीं। Finland, Italy, Luxembourg, Netherlands, Poland और Sweden ने इसका विरोध किया।"
+  },
+  "metadata": {
+    "domain": "news",
+    "sentiment": "neutral"
+  },
+  "gender_specific": null
+}
