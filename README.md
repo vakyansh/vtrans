@@ -7,7 +7,9 @@
 ## 🚀 Overview  
 Most existing translation systems produce formal translations that use complex words, making them difficult for everyday users to understand. These systems often generate literal translations due to the nature of the data they were trained on.  
 
-**vtrans** introduces a new paradigm for collecting parallel data, focusing on formal and colloquial Hindi-English code-mixed translations. Designed for NLP research, this project serves as a proof of concept (POC) for gathering parallel corpora in a way that better reflects real-world language usage.  
+**vtrans** introduces a new paradigm for collecting parallel data, focusing on formal and colloquial Hindi-English code-mixed translations. Designed for NLP research, this project serves as a proof of concept (POC) for gathering parallel corpora in a way that better reflects real-world language usage.
+
+In v0.0.1, we are releasing a small dataset of 15,000+ entries as a POC.
 
 ---
 
@@ -70,6 +72,7 @@ Each entry in the dataset is a JSON object with the following fields:
   "gender_specific": null
 }
 ```
+Complete data can be found in data/data.jsonl.zip file.
 
 ---
 
